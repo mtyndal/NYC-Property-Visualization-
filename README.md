@@ -1,4 +1,4 @@
-# NYC-Property-Visualization-
+# NYC-Property-Visualization
 Tableau Visual 
 
 Analyzing NYC Real Estate data with Tableau 
