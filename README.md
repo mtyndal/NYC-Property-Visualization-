@@ -11,7 +11,8 @@ I created a calculated field that uses a logical statement to change the Boroug
 - 3 = "Brooklyn"
 - 4 = "Queens"
 - 5 = "Staten Island"
-- 
+
+
 Sheet 2:  Created a heat map to visualize the best time to buy property throughout the year for each borough 
 
 Sheet 3 + 4: I converted the Commercial Units and Residential Units fields into percentages. 
